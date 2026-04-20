@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+chromadb
+sentence-transformers
+google-generativeai
+pandas
+scikit-learn
+joblib
+python-dotenv
